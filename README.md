@@ -1,4 +1,4 @@
-﻿Blablal;k
+﻿bla
 
 #Practical Numerical Methods with Python
 
